@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWCF.DAL", "TestWCF.DAL\TestWCF.DAL.csproj", "{F3EF2FD2-6DD9-4534-987F-34D7DC486DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWCF.BO", "TestWCF.BO\TestWCF.BO.csproj", "{BAE1AEBB-D061-480C-8726-63B3C5C3A588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3EF2FD2-6DD9-4534-987F-34D7DC486DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3EF2FD2-6DD9-4534-987F-34D7DC486DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3EF2FD2-6DD9-4534-987F-34D7DC486DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE1AEBB-D061-480C-8726-63B3C5C3A588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE1AEBB-D061-480C-8726-63B3C5C3A588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE1AEBB-D061-480C-8726-63B3C5C3A588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE1AEBB-D061-480C-8726-63B3C5C3A588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
